@@ -89,3 +89,5 @@
 \\Mac\Home\Documents\API\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
 \\Mac\Home\Documents\API\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
 \\Mac\Home\Documents\API\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Documents\API\Server\obj\Debug\net6.0\Server.RazorAssemblyInfo.cache
+\\Mac\Home\Documents\API\Server\obj\Debug\net6.0\Server.RazorAssemblyInfo.cs
